@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html{
+  color: #666;
+}
+
+.token.selector {
+  color: #666;
+}
+
+.token.property {
+  color: #666;
+}
+
+.token.comment {
+  color: #666;
+}
+
